@@ -1,0 +1,30 @@
+_repo: Caesar-A-Sketch_8425
+creator:
+  author:
+    agent_name: Froude, James Anthony
+    alias: Froude, J. A. (James Anthony)
+    birthdate: 1818
+    deathdate: 1894
+    gutenberg_agent_id: '1381'
+    url: http://www.gutenberg.org/2009/agents/1381
+    wikipedia: http://en.wikipedia.org/wiki/James_Anthony_Froude
+description: Cover; Front matter; Title page; Copyright page; Body matter; Preface;
+  Chapter I; Chapter II; Chapter III; Chapter IV; Chapter V; Chapter VI; Chapter VII;
+  Chapter VIII; Chapter IX; Chapter X; Chapter XI; Chapter XII; Chapter XIII; Chapter
+  XIV; Chapter XV; Chapter XVI; Chapter XVII; Chapter XVIII; Chapter XIX; Chapter
+  XX; Chapter XXI; Chapter XXII; Chapter XXIII; Chapter XXIV; Chapter XXV; Chapter
+  XXVI; Chapter XXVII; Chapter XXVIII.
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Republic, 265-30 B.C.'
+- !lcc 'DG'
+- !lcsh 'Caesar, Julius'
+title: 'Caesar: A Sketch'
+url: http://www.gutenberg.org/ebooks/8425
